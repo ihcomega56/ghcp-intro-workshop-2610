@@ -1,6 +1,10 @@
 # VS Code + GitHub Copilot ハンズオン環境セットアップ
 
-このリポジトリは、VS Code と GitHub Copilot を使って、Python の小さな注文アプリを改修するハンズオン用スターターです。アプリは Streamlit で動作し、バックエンドやデータベースの構築は不要です。
+このリポジトリは、VS Code と GitHub Copilot を使って、Python の小さなアプリをゼロから作り、GitHub 上でチーム開発の流れを体験するハンズオンの資料です。アプリは Streamlit で動作し、バックエンドやデータベースの構築は不要です。
+
+- ハンズオン手順: [handson/README.md](handson/README.md)
+- 完成イメージのサンプルアプリと実行手順: [example/README.md](example/README.md)
+- Git の基本的な考え方: [docs/intro-to-git.md](docs/intro-to-git.md)
 
 ## 事前セットアップ
 
