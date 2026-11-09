@@ -6,6 +6,8 @@
 - 完成イメージのサンプルアプリと実行手順: [example/README.md](example/README.md)
 - Git の基本的な考え方: [docs/intro-to-git.md](docs/intro-to-git.md)
 
+サンプルアプリは、ブルーと白を基調にしたデザインです。画面上部から注文画面と売上ダッシュボードを切り替えられます。見た目の調整は `example/styles.css` で行えます。
+
 ## 事前セットアップ
 
 ### 1. Visual Studio Code
@@ -64,4 +66,3 @@ git config user.email "GitHubで使用するメールアドレス"
 ```
 
 <img width="1491" height="854" alt="Screenshot 2026-10-22 at 9 47 50" src="https://github.com/user-attachments/assets/e05959a5-5bbb-400a-b455-de1911527f21" />
-
